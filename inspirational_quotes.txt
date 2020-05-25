@@ -14,3 +14,5 @@ If you can dream it, you can can do it - Walt Disney
 
 
 checking goit stash -- sandy
+
+checking git stash in remote -- sandy3
