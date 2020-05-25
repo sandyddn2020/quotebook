@@ -11,10 +11,3 @@ Best way to perfect the future is to create it - Peter Drucker
 The best way to predict future is to create it - Peter Drucker
 
 If you can dream it, you can can do it - Walt Disney
-
-
-<<<<<<< HEAD
-git stash in local -- sandy2
-=======
-checking goit stash -- sandy
->>>>>>> bef32b1196a7e8c6beaa91ccce0df7315207534b
