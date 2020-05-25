@@ -12,3 +12,5 @@ The best way to predict future is to create it - Peter Drucker
 
 
 If you can dream it, you can can do it - Walt Disney
+
+checking git stash - sandy1
